@@ -87,5 +87,7 @@ The whole loop: a free Army manual → a set of prompts → one composite → a 
 
 Book's free (search "UFMCS Red Team Handbook v9").
 
-Full prompts + composite + the skill file are in my newsletter 👇
-[your-newsletter-link]
+Full prompts + composite + the ready-to-install skill, free on GitHub 👇
+github.com/anthonyonazure/content-hub
+
+(newsletter's in my bio for more)

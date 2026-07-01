@@ -103,7 +103,9 @@ The handbook is free. Search "UFMCS Red Team Handbook v9." Read Chapter 7 if you
 
 ---
 
-*I send a newsletter with more field-tested prompts like these, plus the occasional teardown of a real business decision. If that's useful to you, [subscribe here](#your-newsletter-link).*
+*Everything in this piece — all seven prompts, the composite, and the ready-to-install `/redteam` skill — is on GitHub, free to copy: **https://github.com/anthonyonazure/content-hub**.*
+
+*I also send a newsletter with more field-tested prompts and the occasional teardown of a real business decision. If that's useful, [subscribe here](#your-newsletter-link).*
 
 ---
 

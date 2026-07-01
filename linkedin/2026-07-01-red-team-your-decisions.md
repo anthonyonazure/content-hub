@@ -26,8 +26,8 @@ Here's the difference that matters. Brainstorming tries to confirm your idea. Re
 
 The book is free — search "UFMCS Red Team Handbook v9."
 
-I wrote up the full prompt set, the composite, and how to build the command as a skill. It's in my newsletter, link in the comments. If you make decisions with real money behind them, run one before you write the next check.
+I put the full prompt set, the composite, and the ready-to-install skill on GitHub — free, link in the comments. If you make decisions with real money behind them, run one before you write the next check.
 
 ---
 
-*Suggested first comment:* "Full write-up with all 7 prompts + the composite + the skill file here: [your-newsletter-link]"
+*Suggested first comment:* "Full toolkit — 7 prompts + the composite + the /redteam skill: https://github.com/anthonyonazure/content-hub (newsletter for more: [your-newsletter-link])"
