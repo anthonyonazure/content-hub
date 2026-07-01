@@ -56,9 +56,9 @@ PROMPT — Leading Indicators:
 "Define signals in the first 2–4 weeks that tell me this is actually working — not vanity metrics like impressions. Then define the kill-signals that mean stop. Give me one cheap test to produce them before I go all in."
 
 **10/**
-Chain them into one. The composite "red team a decision" prompt, compressed:
+The whole gauntlet in one prompt:
 
-"Stress-test my idea by trying to DISPROVE it, not confirm it. Run: 1) am I solving the real problem? 2) weakest assumption 3) how the customer sees it 4) premortem 5) 3 better alternatives 6) root cause vs symptom 7) cheap early signals 8) verdict. Don't be agreeable."
+"Red-team my idea — try to DISPROVE it, not confirm it. Check: real problem vs symptom, weakest assumption, how the customer sees it, premortem, 3 alternatives, root cause, cheap early signals, verdict. Don't be agreeable."
 
 **11/**
 Last upgrade: I stopped copy-pasting these.
